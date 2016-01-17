@@ -21,9 +21,9 @@ namespace Ceng423Project
 
         // TODO: Add your service operations here
         [OperationContract]
-        string HashPassword(string input);
+        string HashMessage(string input);
 
-
+        
         [OperationContract]
         byte[] EncryptStringToBytes(string plainText, byte[] Key, byte[] IV);
     }

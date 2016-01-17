@@ -31,7 +31,9 @@ namespace Ceng423Project
             }
             return composite;
         }
-       public string HashPassword(string input)
+     
+
+       public string HashMessage(string input)
         {
             var sha1 = SHA1Managed.Create();
             byte[] inputBytes = Encoding.ASCII.GetBytes(input);
