@@ -1,0 +1,6 @@
+C:\Users\Kübra\Documents\Visual Studio 2013\Projects\Ceng423Project\Ceng423Project\obj\Debug\Ceng423Project.csprojResolveAssemblyReference.cache
+C:\Users\Kübra\Documents\Visual Studio 2013\Projects\Ceng423Project\Ceng423Project\bin\Ceng423Project.dll.config
+C:\Users\Kübra\Documents\Visual Studio 2013\Projects\Ceng423Project\Ceng423Project\bin\Ceng423Project.dll
+C:\Users\Kübra\Documents\Visual Studio 2013\Projects\Ceng423Project\Ceng423Project\bin\Ceng423Project.pdb
+C:\Users\Kübra\Documents\Visual Studio 2013\Projects\Ceng423Project\Ceng423Project\obj\Debug\Ceng423Project.dll
+C:\Users\Kübra\Documents\Visual Studio 2013\Projects\Ceng423Project\Ceng423Project\obj\Debug\Ceng423Project.pdb
